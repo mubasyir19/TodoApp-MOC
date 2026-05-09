@@ -26,7 +26,7 @@ function DashboardPage() {
       <div className='flex flex-col gap-4 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm'>
         <div>
           <h1 className='text-2xl font-semibold'>Todo Dashboard</h1>
-          <p className='mt-1 text-sm text-slate-600'>Kelola tugas Anda dengan filter, pencarian, dan aksi CRUD.</p>
+          <p className='mt-1 text-sm text-slate-600'>Kelola tugas Anda dengan mudah.</p>
         </div>
 
         <AddNewTask />
