@@ -35,7 +35,7 @@ function AuthPage() {
       <div className='bg-cream hidden h-full w-full py-6 md:block md:py-8 lg:py-16 xl:py-24'>
         <div className='flex h-full flex-col justify-between lg:mx-auto lg:w-3/4 xl:w-1/2'>
           <div className='space-y-2'>
-            <h1 className={`text-secondary text-3xl font-bold`}>TaskFlow</h1>
+            <h1 className={`text-secondary text-3xl font-bold`}>TaskTodo</h1>
             <p className='text-base text-black italic'>Organize your day, achieve more</p>
           </div>
           <div className='space-y-4'>
@@ -48,9 +48,6 @@ function AuthPage() {
                 className='h-full w-full object-cover object-bottom'
               />
             </div>
-            <p className='text-lg text-black italic'>
-              &quot;Simplicity is the ultimate sophistication.&quot; — <br /> Leonardo da Vinci
-            </p>
           </div>
           <div className=''>
             <p className='text-xs text-black uppercase'>EST. 2026 &copy; Submission MOC Group</p>
